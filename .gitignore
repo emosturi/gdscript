@@ -1,0 +1,21 @@
+# Local Godot editor binary (keep outside repo or ignore)
+Godot_v*
+
+# Godot 4+
+.import/
+export_presets.cfg
+*.translation
+
+# Mono / C# (if you add it later)
+.mono/
+data_*/
+mono_crash.*.json
+
+# System / editor
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Builds
+builds/

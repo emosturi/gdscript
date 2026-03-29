@@ -1,0 +1,7 @@
+; Godot project — edit further in the Godot editor.
+config_version=5
+
+[application]
+config/name="gdscript"
+run/main_scene=""
+config/features=PackedStringArray("4.2", "Forward Plus")
